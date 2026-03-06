@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState, useRef, useEffect, useCallback } from "react";
 
 // ─── NSE Stock Master (Nifty 500 subset — most common holdings) ───────────────
@@ -908,3 +909,16 @@ export default function App() {
     ? <EngineScreen portfolio={portfolio} onBack={() => setPortfolio(null)} />
     : <SelectorScreen onDone={setPortfolio} />;
 }
+=======
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Quantfolio</title>
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
+>>>>>>> 918002c556bc5d4c019a6a2999a709aa817aebbe

@@ -5,11 +5,7 @@
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-<<<<<<< HEAD
-    "react-scripts": "^5.0.1"
-=======
     "react-scripts": "5.0.1"
->>>>>>> 918002c556bc5d4c019a6a2999a709aa817aebbe
   },
   "scripts": {
     "start": "react-scripts start",

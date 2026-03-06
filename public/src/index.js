@@ -1,9 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-<<<<<<< HEAD
-
-=======
->>>>>>> 918002c556bc5d4c019a6a2999a709aa817aebbe
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App />);
